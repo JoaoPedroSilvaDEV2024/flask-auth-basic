@@ -11,5 +11,3 @@ Permite criar usuários, fazer login e acessar rotas protegidas com token.
 ```bash
 pip install -r requirements.txt
 
-2️⃣ Rodar o servidor
-python app.py
