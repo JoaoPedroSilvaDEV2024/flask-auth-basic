@@ -10,3 +10,6 @@ Permite criar usuários, fazer login e acessar rotas protegidas com token.
 ### 1️⃣ Instalar dependências
 ```bash
 pip install -r requirements.txt
+
+2️⃣ Rodar o servidor
+python app.py
