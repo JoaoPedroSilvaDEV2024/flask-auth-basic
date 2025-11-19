@@ -1,6 +1,6 @@
 # API de Autenticação com Flask e JWT
 
-Uma API simples e segura de autenticação construída com Flask e JSON Web Tokens (JWT). Esta API fornece endpoints para registro de usuários, login e acesso a rotas protegidas por token, ideal como base para aplicações web e mobile que precisam de autenticação baseada em tokens.
+Uma API segura de autenticação construída com Flask e JSON Web Tokens (JWT). Esta API fornece endpoints para registro de usuários, login e acesso a rotas protegidas por token, ideal como base para aplicações web e mobile que precisam de autenticação baseada em tokens.
 
 ---
 
