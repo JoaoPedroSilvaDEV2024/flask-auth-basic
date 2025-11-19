@@ -1,4 +1,4 @@
-# Simple Flask Login API
+# flask-user-auth-api
 
 Projeto simples de API de autenticação usando **Flask** e **JWT**, ideal para portfólio ou estudo.  
 Permite criar usuários, fazer login e acessar rotas protegidas com token.
